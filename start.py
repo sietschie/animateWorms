@@ -1,0 +1,3 @@
+import findPoly
+
+findPoly.main()
